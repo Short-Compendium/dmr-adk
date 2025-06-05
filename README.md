@@ -2,6 +2,7 @@
 
 [Use the Google (Python) Agent Development Kit with Docker Model Runner](https://k33g.hashnode.dev/use-the-google-python-agent-development-kit-with-docker-model-runner)
 
+Java: https://x.com/glaforge/status/1930681855470178625
 
 ## Python environment
 
