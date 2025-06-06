@@ -38,7 +38,7 @@ def say_hello(name: str):
 
 
 root_agent = Agent(
-    model=LiteLlm(model="openai/ai/qwen2.5:latest"),
+    model=LiteLlm(model=f"openai/{os.environ.get('MODEL_RUNNER_CHAT_MODEL')}"),
     name="michelangelo_agent",
     description=(
         """

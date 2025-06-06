@@ -120,6 +120,8 @@ ln -sf /usr/local/bin/pip3.10 /usr/local/bin/pip3
 ln -sf /usr/local/bin/pip3.10 /usr/local/bin/pip
 EOF
 
+
+
 # ------------------------------------
 # Create a new user
 # ------------------------------------
