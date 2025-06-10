@@ -9,7 +9,7 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
     "workbench.tree.indent": 20,
-    "window.zoomLevel": 2.0,
+    "window.zoomLevel": 0.5,
     "[markdown]": {
         "editor.unicodeHighlight.ambiguousCharacters": false,
         "editor.unicodeHighlight.invisibleCharacters": false,
@@ -242,6 +242,14 @@
             "color": "#ffffff",
             "backgroundColor": "#A70A0F",
             "border": "1px solid #A70A0F",
+            "borderRadius": "3px",
+            "isWholeLine": false
+        },
+        {
+            "text": "INITIALIZE:",
+            "color": "#ffffff",
+            "backgroundColor": "#065014",
+            "border": "1px solid #065014",
             "borderRadius": "3px",
             "isWholeLine": false
         },
